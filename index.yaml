@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v1
+    appVersion: 1.19.0
+    created: "2020-06-22T11:51:41.0153789+02:00"
+    description: Chart for the nginx server
+    digest: 3648d8cc13142fd65dec87f595f3ddf96748d55d664f308271d08376640d872d
+    home: http://www.nginx.org
+    icon: https://bitnami.com/assets/stacks/nginx/img/nginx-stack-220x234.png
+    keywords:
+    - nginx
+    - http
+    - web
+    - www
+    - reverse proxy
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: nginx
+    sources:
+    - https://github.com/bitnami/bitnami-docker-nginx
+    urls:
+    - nginx-6.0.2.tgz
+    version: 6.0.2
+generated: "2020-06-22T11:51:41.0036904+02:00"
